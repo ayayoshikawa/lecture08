@@ -1,3 +1,3 @@
-function projection(a){
-  
+function projection(n){
+return n.name;
 }
